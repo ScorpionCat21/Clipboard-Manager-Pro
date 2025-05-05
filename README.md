@@ -2,7 +2,6 @@
 
 A modern Python GUI application that monitors and logs your clipboard activity in real-time, with support for text, images, and URLs. Built with PyQt6.
 
-![Demo Screenshot](https://i.imgur.com/JQ1q5Wl.png) *(Replace with your actual screenshot)*
 
 ## ✨ Features
 
@@ -25,5 +24,5 @@ A modern Python GUI application that monitors and logs your clipboard activity i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clipboard-manager-pro.git
+   git clone https://github.com/ ScorpionCat21/clipboard-manager-pro.git
    cd clipboard-manager-pro
